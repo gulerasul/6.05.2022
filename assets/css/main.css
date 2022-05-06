@@ -1,0 +1,55 @@
+body img {
+    width: 150px;
+    height: 150px;
+}
+
+.box {
+    height: 550px;
+    width: 500px;
+    border: 5px solid green;
+    margin-top: 20px;
+    margin-left: 5px;
+    border-radius: 15px;
+}
+
+.fruit {
+    height: 550px;
+    width: 400px;
+    border: 5px solid red;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 15px;
+}
+
+.vegetable {
+    height: 550px;
+    width: 400px;
+    border: 5px solid yellow;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 15px;
+}
+
+.food {
+    display: flex;
+    margin-left: 70px;
+    margin-top: 40px;
+}
+
+.food h2 {
+    text-align: center;
+
+}
+
+.box img {
+    height: 150px;
+    width: 150px;
+}
+
+.fruitt {
+    display: flex;
+}
+
+.vegetablee {
+    display: flex;
+}
